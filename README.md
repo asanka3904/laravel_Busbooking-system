@@ -27,24 +27,34 @@ Delete/
 
 
 //password reset routers
+
 Get:/forgot-password'
+
 Post:'/forgot-password',
+
 Get:'/reset-password/{token}'
+
 Post:'/reset-password'
     
 
 //protected route admin
 
 /'bus'/'all’');
+
 /'bus_routes'/'all’);
+
 /'bus_seates'/ 'all’);
+
 /'routes'/'all’);
 
 /'bus_shedules'/’all’
+
 /logout'
 
 //protected route user
+
 'booking'/ 'all’
+
 'logout
 
 
