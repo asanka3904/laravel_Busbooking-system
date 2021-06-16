@@ -7,6 +7,50 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+//public route
+
+ Route : api/
+
+All={
+Index/
+Show/
+Store/
+Update/
+Delete/
+}
+
+'/register'
+'/login'
+
+'/bus_shedules'/(‘index', 'show’)
+ booking'/'all');
+
+
+//password reset routers
+Get:/forgot-password'
+Post:'/forgot-password',
+Get:'/reset-password/{token}'
+Post:'/reset-password'
+    
+
+//protected route admin
+
+/'bus'/'all’');
+/'bus_routes'/'all’);
+/'bus_seates'/ 'all’);
+/'routes'/'all’);
+
+/'bus_shedules'/’all’
+/logout'
+
+//protected route user
+'booking'/ 'all’
+'logout
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
